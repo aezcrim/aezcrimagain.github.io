@@ -218,7 +218,7 @@
 
 		<nav id="LC" class="column">
 			<ul>
-                <li><a href="#"><h3 id="FR">Friends</h3></a></li>
+                <li><a href="https://aezcrim.github.io/dear_friends/"><h3 id="FR">Friends</h3></a></li>
                 <p>
                     Friends are truly a wonderful thing aren't they? The love between friends is called philia. It is sincere and platonic. I'm on good terms with a lot of people. But those who are the closest to my heart are without a doubt my greatest friends. And I'm truly appreciative of the genuine comrades I have gained in my life.
                 </p>
@@ -230,7 +230,7 @@
 
 		<nav id="RC" class="column">
             <ul>
-				<li><a href="#"><h3 id="FM">Family</h3></a></li>
+				<li><a href="https://aezcrim.github.io/dear_family/"><h3 id="FM">Family</h3></a></li>
                 <p>
                     Family is one of those things that will have been with you from the very beginning. It's kind of interesting when you think about how you will know your parents for the rest of your life, but they have known you for only part of theirs. The same goes with your older siblings. Families, when good and healthy, are one of the greatest blessings anyone can receive.
                 </p>
