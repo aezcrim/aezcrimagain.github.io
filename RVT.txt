@@ -1,0 +1,244 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Dear Partner</title>
+	<style type="text/css">
+
+		body {
+			min-width: 800px;
+		}
+
+		#B {
+			padding-left: 200px;
+			padding-right: 200px;
+            overflow: hidden;
+		}
+		
+		#B .column {
+			position: relative;
+			float: left;
+            padding-bottom: 1000em;
+			margin-bottom: -1000em;
+            padding-top: 1em;
+		}
+        
+		#HD {
+			font-size: large;
+			padding: 0.3em;;
+			background: #000000;
+            color: #ffffff;
+		}
+		
+		#MC {
+			padding: 20px 20px;
+			width: 1000px;
+            text-align: center;
+            color: #ffffff;
+            background: rgba(162, 7, 7, 0.79);
+            
+		}
+		
+		#LC {
+			width: 144px;
+			padding: 40px 40px;
+			right: 240px;
+			margin-left: -100%;
+            color: #ffffff;
+            background: #006400;
+		}
+		
+		#RC {
+			width: 165px;
+			padding: 10px 10px;
+			margin-right: -100%;
+            color: #ffffff;
+            background: #080071;
+		}
+        
+        #FR {
+            color: #ffffff;
+        }
+        
+        #FM {
+            color: #ffffff;
+        }
+		
+		* html #LC {
+			left: 150px;
+		}
+
+		* html body {
+			overflow: hidden;
+		}
+
+
+		body {
+			margin: 0;
+			padding: 0;
+			font-family:Sans-serif;
+			line-height: 1.5em;
+		}
+
+		nav ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		
+		nav ul a {
+			color: #000000;
+			text-decoration: none;
+		}
+		
+	</style>
+		
+</head>
+
+<body id="A">
+
+	<header id="HD"><p>What is Love? Something I wasn't expecting to have, but I'm so thankful I do.</p></header>
+
+	<div id="B">
+
+		<main id="MC" class="column">
+			<article>
+			<div id="RV">
+			<h1>Dear Partner</h1>
+            <section id="RV1">
+                <div>
+                Hello, please accept this gift of mine, babe
+                </div>
+                <div>
+                I know it's late but, Happy Valentine's Day
+                </div>
+                <div>
+                It's been a journey, quite long
+                </div>
+                <div>
+                Lots of memories, and songs
+                </div>
+                <div>
+                Over the months that have passed
+                </div>
+                <div>
+                Varous limitations we have had to surpass
+                </div>
+                <div>
+                Every battle we have overcome together
+                </div>
+                <div>
+                Yields results that will make our future better
+                </div>
+            </section>
+            <section id="RV2">
+                <h2></h2>
+                <div>
+                Of course, it was not easy, it was tough
+                </div>
+                <div>
+                Understandably difficult and rough
+                </div>
+                <div>
+                Sorry for all of the shortcomings and mistakes
+                </div>
+                <div>
+                Of course, I am human so I can break
+                </div>
+                <div>
+                Mom and dad, I believe they raised me right, though
+                </div>
+                <div>
+                Understand that I will not quit the fight, no 
+                </div>
+                <div>
+                'Cause I know that based on the past troubles,
+                </div>
+                <div>
+                Help is always there to aid in our damn struggles
+                </div>
+            </section>
+            <section id="RV3">
+                <h2></h2>
+                <div>
+                Rose colored my life became, when I met you
+                </div>
+                <div>
+                Another way you made me forget the blues
+                </div>
+                <div>
+                It was unexpected, how we turned out
+                </div>
+                <div>
+                Although now, I do not have any doubts
+                </div>
+                <div>
+                Happiness is always there when I need it to stay
+                </div>
+                <div>
+                We go places, then rain clouds never come our way
+                </div>
+                <div>
+                Together, the future feels sooner than it seems
+                </div>
+                <div>
+                Forever may not be limited to our dreams
+                </div>
+            </section>
+            <section id="RV4">
+                <h2></h2>
+                <div>
+                Together, we've done and accomplished so much good
+                </div>
+                <div>
+                Helping each other progress more than we individually would 
+                </div>
+                <div>
+                And that's one more reason why I believe this works
+                </div>
+                <div>
+                Negating all the negatives, the pain and hurt
+                </div>
+                <div>
+                Keeping all the lessons that will make us stronger and smarter
+                </div>
+                <div>
+                Yet another reason why we've stayed together as partners
+                </div>
+                <div>
+                One couple from two people with a million dreams that keep us awake
+                </div>
+                <div>
+                Utilizing our strengths to form a future that we want to create
+                </div>
+            </section>
+                </div>
+			
+			</article>								
+		</main>
+
+		<nav id="LC" class="column">
+			<ul>
+                <li><a href="#"><h3 id="FR">Friends</h3></a></li>
+                <p>
+                    Friends are truly a wonderful thing aren't they? The love between friends is called philia. It is sincere and platonic. I'm on good terms with a lot of people. But those who are the closest to my heart are without a doubt my greatest friends. And I'm truly appreciative of the genuine comrades I have gained in my life.
+                </p>
+                <p>
+                    Of course one of the closest "friends" you'll have is your romantic lover. It was truly unexpected how things turned out between us. To think that I would get a girlfriend right when I have stopped trying to find one. Life is strange. But I don't regret it.
+                </p>
+			</ul>
+		</nav>
+
+		<nav id="RC" class="column">
+            <ul>
+				<li><a href="#"><h3 id="FM">Family</h3></a></li>
+                <p>
+                    Family is one of those things that will have been with you from the very beginning. It's kind of interesting when you think about how you will know your parents for the rest of your life, but they have known you for only part of theirs. The same goes with your older siblings. Families, when good and healthy, are one of the greatest blessings anyone can receive.
+                </p>
+                <p>
+                    Relating this to my dear partner, we both understand how difficult and embarrassing it is to get to know the other's family. Although she has met my parents. I have yet to meet hers. But I'm not in any rush. We were both told to focus on our grades. Which I completely understand and agree with. So my advice, to other people, is to simply set your priorities straight. You can do it.
+                </p>
+			</ul>
+         </nav>
+		</div>
+</body>
+</html>
